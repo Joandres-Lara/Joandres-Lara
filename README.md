@@ -1,13 +1,13 @@
 # I'm web developer
 
 ## Languagues
-<table>
+<table style='border: none;'>
  <tbody>
   <tr>
-   <td style='border: none;'>
+   <td>
     <img src='.github/assets/php-logo.svg' width='150px'/>
    </td>
-   <td style='border: none;'>
+   <td>
     <img src='.github/assets/logo-js.png' width='150px'/>
    </td>
   </tr>
