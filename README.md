@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2021 - 01 November, 2021
+Week: 27 October, 2021 - 02 November, 2021
 
-JavaScript       21 hrs 21 mins  █████████████▓░░░░░░░░░░░   54.82 % 
-JSX              16 hrs 27 mins  ██████████▓░░░░░░░░░░░░░░   42.24 % 
-PHP              58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Blade Template   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript   18 hrs 23 mins  ████████████▓░░░░░░░░░░░░   50.22 % 
+JSX          17 hrs 4 mins   ███████████▓░░░░░░░░░░░░░   46.62 % 
+PHP          58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
