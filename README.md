@@ -5,10 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 November, 2021 - 20 November, 2021
+Week: 15 November, 2021 - 21 November, 2021
 
-JavaScript    19 hrs 56 mins  ███████████████████░░░░░░   75.97 % 
-JSX           5 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.30 % 
-Objective-C   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript    19 hrs 40 mins  ███████████████████▓░░░░░   78.58 % 
+JSX           4 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Objective-C   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+YAML          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 <!--END_SECTION:waka-->
