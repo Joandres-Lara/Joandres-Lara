@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2021 - 03 December, 2021
+Week: 28 November, 2021 - 04 December, 2021
 
-PHP          31 hrs 31 mins  █████████████████▓░░░░░░░   70.95 % 
-JavaScript   4 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-JSX          4 hrs 26 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++          2 hrs 45 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+PHP              38 hrs 26 mins  █████████████████████▒░░░   84.94 % 
+JavaScript       4 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+JSX              1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Blade Template   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
