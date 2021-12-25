@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
-PHP          21 hrs 6 mins   ████████████░░░░░░░░░░░░░   47.59 % 
-JavaScript   12 hrs 46 mins  ███████▒░░░░░░░░░░░░░░░░░   28.79 % 
-JSON         3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-JSX          3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-XML          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+PHP          17 hrs 19 mins  ██████████▒░░░░░░░░░░░░░░   41.41 % 
+JavaScript   13 hrs 28 mins  ████████░░░░░░░░░░░░░░░░░   32.20 % 
+JSX          3 hrs 54 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+JSON         3 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+XML          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 <!--END_SECTION:waka-->
