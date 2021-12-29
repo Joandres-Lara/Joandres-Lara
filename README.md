@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2021 - 27 December, 2021
+Week: 22 December, 2021 - 28 December, 2021
 
-JavaScript       23 hrs 32 mins  ██████████████▓░░░░░░░░░░   58.30 % 
-PHP              8 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 % 
-JSX              7 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Blade Template   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Bash             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+JavaScript   31 hrs 19 mins  █████████████████▒░░░░░░░   68.84 % 
+JSX          7 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.20 % 
+PHP          5 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Git Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 <!--END_SECTION:waka-->
