@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-TypeScript   12 hrs 57 mins  ████████░░░░░░░░░░░░░░░░░   31.40 % 
-JavaScript   11 hrs 53 mins  ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
-JSON         8 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.72 % 
-PHP          3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-CSS          1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript   14 hrs 21 mins  ████████▓░░░░░░░░░░░░░░░░   35.13 % 
+JavaScript   11 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+JSON         8 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+PHP          3 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+YAML         55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
