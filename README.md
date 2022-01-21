@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
-Python       17 hrs 43 mins  ██████████▓░░░░░░░░░░░░░░   42.50 % 
-PHP          12 hrs 24 mins  ███████▒░░░░░░░░░░░░░░░░░   29.75 % 
-JavaScript   6 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-JSON         1 hr 46 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-CSS          1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+PHP          18 hrs 59 mins  ██████████░░░░░░░░░░░░░░░   40.17 % 
+Python       14 hrs 40 mins  ███████▓░░░░░░░░░░░░░░░░░   31.05 % 
+JavaScript   7 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+CSS          2 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 <!--END_SECTION:waka-->
