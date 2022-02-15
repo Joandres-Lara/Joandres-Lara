@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2022 - 13 February, 2022
+Week: 08 February, 2022 - 14 February, 2022
 
-TypeScript       33 hrs 30 mins  ███████████████████▒░░░░░   77.08 % 
-JavaScript       3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Blade Template   2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-PHP              1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-CSS              38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript       23 hrs 40 mins  ██████████████████░░░░░░░   71.35 % 
+Blade Template   2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+JavaScript       2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+PHP              1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+SCSS             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
