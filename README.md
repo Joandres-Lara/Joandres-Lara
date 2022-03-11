@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 09 March 2022
+From: 03 March 2022 - To: 10 March 2022
 
-TypeScript       29 hrs 38 mins  ███████████████████▓░░░░░   78.43 %
-JavaScript       3 hrs 42 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-Java             1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-YAML             58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Batchfile        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-JSON             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+TypeScript       35 hrs 31 mins  ██████████████████████░░░   88.46 %
+JavaScript       1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Java             1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Batchfile        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JSON             12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+INI              10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
