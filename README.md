@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2022 - To: 12 March 2022
+From: 06 March 2022 - To: 13 March 2022
 
-TypeScript   38 hrs 46 mins  ███████████████████████▒░   93.21 %
-Java         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Batchfile    49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-INI          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   40 hrs 11 mins  ███████████████████████▒░   93.39 %
+Java         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Batchfile    49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+INI          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other        7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
