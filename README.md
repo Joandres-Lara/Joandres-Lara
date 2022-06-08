@@ -6,12 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 31 May 2022 - To: 07 June 2022
 
-Java         29 hrs 44 mins  ████████████████████▒░░░░   81.17 %
-PHP          2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-JavaScript   1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Java         30 hrs 44 mins  ████████████████████░░░░░   79.39 %
+Groovy       5 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Other        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
