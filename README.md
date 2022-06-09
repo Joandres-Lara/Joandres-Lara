@@ -6,11 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Java         30 hrs 44 mins  ████████████████████░░░░░   79.39 %
-Groovy       5 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Other        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Java         31 hrs 1 min    ███████████████████▓░░░░░   79.22 %
+Groovy       5 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Other        1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
 
 <!--END_SECTION:waka-->
