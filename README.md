@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 June 2022 - To: 11 June 2022
+From: 05 June 2022 - To: 12 June 2022
 
 Java         13 hrs 47 mins  ██████████████▓░░░░░░░░░░   58.89 %
 Groovy       5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 %
