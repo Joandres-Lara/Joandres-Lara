@@ -6,12 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 June 2022 - To: 12 June 2022
+From: 06 June 2022 - To: 13 June 2022
 
-Java         13 hrs 47 mins  ██████████████▓░░░░░░░░░░   58.89 %
-Groovy       5 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   23.38 %
-JSON         1 hr 55 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Java         14 hrs 18 mins  ███████████████▒░░░░░░░░░   61.08 %
+Groovy       5 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+JSON         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Batchfile    31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Properties   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
