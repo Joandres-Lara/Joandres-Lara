@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 August 2022 - To: 15 August 2022
+From: 09 August 2022 - To: 16 August 2022
 
-JavaScript   20 hrs 24 mins  ██████████████▓░░░░░░░░░░   58.37 %
-TypeScript   9 hrs 36 mins   ███████░░░░░░░░░░░░░░░░░░   27.45 %
-Batchfile    3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-PHP          1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Git          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   22 hrs 5 mins   ████████████████▒░░░░░░░░   65.58 %
+TypeScript   7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+Batchfile    3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+PHP          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Git          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
