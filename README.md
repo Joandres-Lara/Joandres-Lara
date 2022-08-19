@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 10 August 2022 - To: 17 August 2022
 
-JavaScript   22 hrs 5 mins   ████████████████▒░░░░░░░░   65.58 %
-TypeScript   7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Batchfile    3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-PHP          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Git          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   23 hrs 26 mins  █████████████████░░░░░░░░   67.57 %
+TypeScript   8 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+PHP          1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+CSS          41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+JSON         26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+Docker       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
