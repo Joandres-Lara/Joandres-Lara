@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-JavaScript       15 hrs 14 mins  ███████████▓░░░░░░░░░░░░░   47.31 %
-PHP              8 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
-TypeScript       4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
-Blade Template   2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-CSS              1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Bash             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JavaScript       11 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   40.01 %
+PHP              7 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+TypeScript       3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Blade Template   1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+CSS              1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Markdown         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
