@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-TypeScript       4 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   39.59 %
-CSS              1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-JavaScript       1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-PowerShell       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-JSON             54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Batchfile        36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+TypeScript       4 hrs 5 mins    ██████████░░░░░░░░░░░░░░░   39.79 %
+CSS              1 hr 40 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
+JavaScript       1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+PowerShell       1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
+JSON             45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Batchfile        37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->
