@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
-TypeScript       1 hr 54 mins    ███████▓░░░░░░░░░░░░░░░░░   30.61 %
-CSS              1 hr 27 mins    ██████░░░░░░░░░░░░░░░░░░░   23.52 %
-PowerShell       1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-Batchfile        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-JSON             24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-PHP              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+CSS              36 mins         ██████████████▓░░░░░░░░░░   58.10 %
+TypeScript       17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+Text             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Batchfile        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
