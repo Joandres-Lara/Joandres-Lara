@@ -7,14 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
-
-CSS              36 mins         ██████████████▓░░░░░░░░░░   58.10 %
-TypeScript       17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
-Text             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-JSON             2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Batchfile        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
