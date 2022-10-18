@@ -7,13 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 15 October 2022
-
-JSON         54 mins         ██████████████▓░░░░░░░░░░   59.20 %
-TypeScript   15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Markdown     12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
