@@ -7,7 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 October 2022 - To: 30 October 2022
+
+TypeScript   2 hrs 37 mins   ██████████████████▒░░░░░░   73.01 %
+JavaScript   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Markdown     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+PHP          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+CSS          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
