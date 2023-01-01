@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-PHP          16 hrs 41 mins  █████████████████▓░░░░░░░   71.02 %
-Bash         2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-TypeScript   1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Other        1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+PHP          10 hrs 36 mins  ███████████████▒░░░░░░░░░   61.26 %
+Bash         2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+TypeScript   1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Other        1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 ```
 
 <!--END_SECTION:waka-->
