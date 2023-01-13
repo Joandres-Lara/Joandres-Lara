@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-PHP          22 hrs 35 mins  ████████████░░░░░░░░░░░░░   47.39 %
-JavaScript   11 hrs 22 mins  ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-Bash         5 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-TypeScript   4 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Markdown     1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-tmux         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+PHP          20 hrs 40 mins  ██████████▒░░░░░░░░░░░░░░   41.31 %
+JavaScript   13 hrs 25 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+TypeScript   6 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Bash         6 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Markdown     1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+tmux         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
