@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-PHP             24 hrs 20 mins  ███████████████████░░░░░░   75.54 %
-JavaScript      5 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
-SQL             1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+PHP             24 hrs 45 mins  ███████████████████░░░░░░   76.41 %
+JavaScript      5 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+SQL             1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
 Other           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
