@@ -7,14 +7,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2023 - To: 26 April 2023
+From: 20 April 2023 - To: 27 April 2023
 
-PHP          22 hrs 30 mins  █████████████▒░░░░░░░░░░░   53.05 %
-JavaScript   14 hrs          ████████▒░░░░░░░░░░░░░░░░   33.00 %
-SQL          2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-TypeScript   1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Smarty       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Git Config   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+PHP          24 hrs 47 mins  ███████████████░░░░░░░░░░   59.77 %
+JavaScript   9 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+SQL          4 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+TypeScript   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Smarty       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Git Config   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
