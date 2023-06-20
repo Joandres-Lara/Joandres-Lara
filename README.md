@@ -7,9 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
-PHP          34 hrs 48 mins  ████████████████████░░░░░   79.97 %
+PHP          34 hrs 47 mins  ████████████████████░░░░░   79.96 %
 SQL          6 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
 Smarty       49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 JavaScript   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
