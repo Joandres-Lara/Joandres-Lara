@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2023 - To: 27 June 2023
+From: 21 June 2023 - To: 28 June 2023
 
-PHP          15 hrs 16 mins  ████████████░░░░░░░░░░░░░   48.41 %
-SQL          5 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-YAML         4 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-TypeScript   1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Docker       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+PHP          11 hrs 21 mins  ███████████░░░░░░░░░░░░░░   44.57 %
+SQL          4 hrs 21 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
+YAML         3 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
+TypeScript   1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+JavaScript   1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka-->
