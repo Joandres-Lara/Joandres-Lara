@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2023 - To: 06 August 2023
+From: 31 July 2023 - To: 07 August 2023
 
-PHP          15 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   31.78 %
-JavaScript   12 hrs 28 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-Smarty       11 hrs 1 min    █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-TypeScript   4 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-SQL          3 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+PHP          17 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.27 %
+JavaScript   12 hrs 28 mins  ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Smarty       11 hrs 1 min    █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+TypeScript   4 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+SQL          3 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
