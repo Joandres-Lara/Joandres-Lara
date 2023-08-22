@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 19 August 2023
+From: 13 August 2023 - To: 20 August 2023
 
 PHP          18 hrs 7 mins   ███████████▒░░░░░░░░░░░░░   45.35 %
 JavaScript   9 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
