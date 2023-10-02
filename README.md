@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2023 - To: 29 September 2023
+From: 23 September 2023 - To: 30 September 2023
 
-JavaScript   21 hrs 10 mins  ██████████████░░░░░░░░░░░   55.74 %
-PHP          10 hrs 40 mins  ███████░░░░░░░░░░░░░░░░░░   28.12 %
-SQL          1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Lua          1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-GDScript3    1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+JavaScript   17 hrs 39 mins  ██████████▓░░░░░░░░░░░░░░   42.36 %
+PHP          17 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   41.57 %
+SQL          1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Lua          1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+GDScript3    1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
