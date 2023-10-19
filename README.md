@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-PHP           28 hrs 32 mins  █████████████████░░░░░░░░   67.81 %
-JavaScript    6 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-SQL           3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Assembly      1 hr 16 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Other         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+PHP          22 hrs 39 mins  ██████████████▒░░░░░░░░░░   57.20 %
+JavaScript   11 hrs 9 mins   ███████░░░░░░░░░░░░░░░░░░   28.18 %
+SQL          3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Assembly     1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
