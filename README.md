@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2024 - To: 14 January 2024
+From: 08 January 2024 - To: 15 January 2024
 
 PHP              25 hrs 8 mins   █████████████████░░░░░░░░   67.93 %
 SQL              3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
