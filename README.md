@@ -7,10 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2024 - To: 04 April 2024
+From: 29 March 2024 - To: 05 April 2024
 
-gitignore   7 mins          ██████████████░░░░░░░░░░░   56.66 %
-JSON        5 mins          ███████████░░░░░░░░░░░░░░   43.34 %
+TypeScript   5 hrs 6 mins    ██████████████████▒░░░░░░   72.90 %
+JSON         37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Bash         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+YAML         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Prisma       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
