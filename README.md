@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2024 - To: 11 June 2024
+From: 05 June 2024 - To: 12 June 2024
 
-TypeScript   19 hrs 39 mins  ████████████████░░░░░░░░░   63.99 %
-Docker       2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Prisma       1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-SQL          1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Other        1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+TypeScript   21 hrs 31 mins  ████████████████▓░░░░░░░░   67.20 %
+Docker       2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Prisma       1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+SQL          1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
 ```
 
 <!--END_SECTION:waka-->
