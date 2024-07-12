@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2024 - To: 09 July 2024
+From: 03 July 2024 - To: 10 July 2024
 
-TypeScript   26 hrs 29 mins  ██████████████████▒░░░░░░   73.77 %
-Python       4 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
-SQL          2 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Markdown     41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript   27 hrs 20 mins  ███████████████████▒░░░░░   76.68 %
+SQL          3 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Python       2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Other        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Markdown     41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
 ```
 
 <!--END_SECTION:waka-->
