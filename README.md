@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2024 - To: 19 October 2024
+From: 14 October 2024 - To: 21 October 2024
 
-TypeScript        28 hrs 40 mins  ███████████████████▓░░░░░   78.92 %
-JSON              2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-SQL               1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Python            1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Git Config        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+TypeScript        28 hrs 51 mins  ███████████████████▒░░░░░   77.28 %
+JSON              2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+SQL               2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Python            1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JavaScript        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
