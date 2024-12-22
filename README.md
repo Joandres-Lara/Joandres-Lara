@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2024 - To: 19 December 2024
+From: 13 December 2024 - To: 20 December 2024
 
-TypeScript    36 hrs 33 mins  ██████████████████████░░░   87.55 %
-SQL           1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other         53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Prisma        52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Python        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+TypeScript    33 hrs 54 mins  █████████████████████▓░░░   86.01 %
+SQL           2 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Python        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+YAML          21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
