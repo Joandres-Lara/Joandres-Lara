@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-TypeScript   20 hrs 4 mins   █████████████████████▒░░░   85.86 %
-SQL          1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Other        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Docker       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-confini      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript   32 hrs 43 mins  █████████████████████▒░░░   85.87 %
+SQL          3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Other        1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Docker       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+confini      12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
