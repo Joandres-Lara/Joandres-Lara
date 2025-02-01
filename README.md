@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2025 - To: 29 January 2025
+From: 23 January 2025 - To: 30 January 2025
 
-TypeScript   33 hrs 37 mins  ████████████████▒░░░░░░░░   65.38 %
-Prisma       8 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.86 %
-SQL          3 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Bash         1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Other        1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+TypeScript   34 hrs 36 mins  █████████████████░░░░░░░░   68.12 %
+Prisma       7 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+SQL          3 hrs 37 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
+Other        1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Bash         1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
