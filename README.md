@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-TypeScript   23 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.94 %
-PHP          4 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Docker       4 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-Python       3 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-SQL          2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+TypeScript   22 hrs 57 mins  ██████████████░░░░░░░░░░░   55.81 %
+Docker       4 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Python       3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+SQL          2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Lua          1 hr 57 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
