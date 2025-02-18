@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-TypeScript   26 hrs 27 mins  █████████████████░░░░░░░░   68.41 %
-Lua          2 hrs 49 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-CSS          2 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Docker       2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-Bash         2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+TypeScript   27 hrs 15 mins  ███████████████████▓░░░░░   78.61 %
+CSS          2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Lua          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Docker       49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
