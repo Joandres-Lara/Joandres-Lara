@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2025 - To: 23 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-TypeScript   27 hrs 54 mins  ███████████████████▒░░░░░   77.19 %
-SQL          3 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Bash         2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-JSON         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Other        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TypeScript   31 hrs 53 mins  █████████████████████░░░░   84.09 %
+SQL          1 hr 50 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Other        1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Bash         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
