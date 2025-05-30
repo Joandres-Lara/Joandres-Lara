@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-TypeScript   20 hrs 7 mins   ███████████████▓░░░░░░░░░   62.93 %
-Bash         2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Python       2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Batchfile    2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-JavaScript   1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+TypeScript   23 hrs 41 mins  ██████████████████▓░░░░░░   74.00 %
+Python       2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Bash         2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+SQL          1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+JavaScript   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
