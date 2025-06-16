@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Python       20 hrs 4 mins   ██████████████▓░░░░░░░░░░   58.25 %
-TypeScript   5 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-RPMSpec      3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-Other        2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Prisma       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+Python       18 hrs 27 mins  ██████████████░░░░░░░░░░░   55.82 %
+TypeScript   5 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+RPMSpec      3 hrs 43 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Other        2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+Prisma       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
