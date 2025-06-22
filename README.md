@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2025 - To: 19 June 2025
+From: 13 June 2025 - To: 20 June 2025
 
-Python       8 hrs 23 mins   ██████████░░░░░░░░░░░░░░░   39.58 %
-TypeScript   7 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.35 %
-Other        2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-Bash         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Rust         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+TypeScript   8 hrs 50 mins   ███████████░░░░░░░░░░░░░░   44.20 %
+Python       6 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 %
+Other        1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Bash         1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Rust         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka-->
