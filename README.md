@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Python            11 hrs 49 mins  ██████████████▓░░░░░░░░░░   59.02 %
-SQL               4 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-TypeScript        1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
-JavaScript        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Groovy            41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Python            13 hrs 26 mins  ███████████████▒░░░░░░░░░   61.93 %
+SQL               4 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+TypeScript        1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JavaScript        52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Groovy            36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
