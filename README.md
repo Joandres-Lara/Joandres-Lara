@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-TypeScript   30 hrs 1 min    ████████████████████████░   96.57 %
-Other        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Prisma       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript        23 hrs 37 mins  █████████████████████▓░░░   86.59 %
+XML               56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Kotlin            53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Groovy            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Other             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 ```
 
 <!--END_SECTION:waka-->
