@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2025 - To: 04 October 2025
+From: 28 September 2025 - To: 05 October 2025
 
-Python            18 hrs 46 mins  █████████████▓░░░░░░░░░░░   54.09 %
-TypeScript        7 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-Groovy            2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Kotlin            2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
-Java              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python            18 hrs 49 mins  ██████████████░░░░░░░░░░░   56.45 %
+TypeScript        7 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
+Kotlin            2 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Groovy            1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Java              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
