@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2025 - To: 30 October 2025
+From: 25 October 2025 - To: 01 November 2025
 
-Python    27 hrs 47 mins  █████████████████████████   99.94 %
-SQL       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Fortran   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python    19 hrs 36 mins  █████████████████████████   99.64 %
+SQL       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Fortran   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
