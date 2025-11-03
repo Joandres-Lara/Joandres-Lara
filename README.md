@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2025 - To: 01 November 2025
+From: 26 October 2025 - To: 02 November 2025
 
 Python    19 hrs 36 mins  █████████████████████████   99.64 %
 SQL       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
