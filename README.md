@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2025 - To: 12 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
-Python       21 hrs 57 mins  █████████████████████▒░░░   85.01 %
-SQL          2 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-TypeScript   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Prisma       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Python       24 hrs 43 mins  ██████████████████████░░░   88.55 %
+SQL          1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+TypeScript   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Prisma       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
