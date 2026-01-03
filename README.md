@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 26 December 2025 - To: 02 January 2026
 
-Python   2 hrs 13 mins   █████████████▒░░░░░░░░░░░   53.67 %
-SQL      1 hr 52 mins    ███████████▒░░░░░░░░░░░░░   45.13 %
-Prisma   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Python   2 hrs 13 mins   ████████████████▒░░░░░░░░   65.92 %
+SQL      1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   32.61 %
+Prisma   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
 ```
 
 <!--END_SECTION:waka-->
