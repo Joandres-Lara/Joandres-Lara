@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-SQL      46 mins         ██████████████░░░░░░░░░░░   55.74 %
-Python   36 mins         ███████████░░░░░░░░░░░░░░   44.04 %
+SQL      46 mins         ██████████████░░░░░░░░░░░   56.28 %
+Python   36 mins         ███████████░░░░░░░░░░░░░░   43.49 %
 Prisma   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
