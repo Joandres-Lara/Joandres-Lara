@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2026 - To: 16 January 2026
+From: 10 January 2026 - To: 17 January 2026
 
-Python       20 hrs 11 mins  ████████████████████▓░░░░   83.00 %
-SQL          3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Prisma       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       22 hrs 13 mins  █████████████████████▓░░░   86.50 %
+SQL          3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
