@@ -7,12 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2026 - To: 20 April 2026
+From: 14 April 2026 - To: 21 April 2026
 
-Python       11 hrs 28 mins        ███████████████████████▒░   92.77 %
-SQL          53 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Prisma       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   11 hrs 42 mins        ██████████████████████░░░   87.71 %
+SQL      1 hr 38 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
 ```
 
 <!--END_SECTION:waka-->
