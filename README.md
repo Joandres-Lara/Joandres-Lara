@@ -7,10 +7,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Python   22 hrs 58 mins        ███████████████████████▒░   93.44 %
-SQL      1 hr 36 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+Python   19 hrs 21 mins        ███████████████████████░░   92.05 %
+SQL      1 hr 40 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
 ```
 
 <!--END_SECTION:waka-->
