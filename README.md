@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Python       10 hrs 45 mins        █████████████▒░░░░░░░░░░░   53.70 %
-Bash         2 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-JSON         1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Prisma       1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-JavaScript   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Python       10 hrs 5 mins         █████████████░░░░░░░░░░░░   52.13 %
+Bash         2 hrs 22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+JSON         1 hr 32 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Prisma       1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+JavaScript   1 hr 3 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->
