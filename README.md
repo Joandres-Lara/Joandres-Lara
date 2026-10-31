@@ -7,13 +7,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2026 - To: 28 October 2026
+From: 22 October 2026 - To: 29 October 2026
 
-TypeScript   5 hrs 40 mins         ████████████████░░░░░░░░░   63.75 %
-Python       2 hrs 1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.71 %
-TOML         50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Astro        9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON         9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+TypeScript   8 hrs 50 mins         █████████████████▓░░░░░░░   71.19 %
+Python       2 hrs 1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+TOML         50 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+TSConfig     18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+JSON         11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
